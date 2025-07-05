@@ -11,7 +11,7 @@ Sequence modeling using LSTM for caption generation.
 
 Encoder-Decoder architecture combining image and text features.
 
-🏗️ Model Architecture
+## 🏗️ Model Architecture
 Encoder:
 
 Dense layers applied to pre-extracted image features (4096-dimensional vectors).
@@ -30,12 +30,12 @@ Loss Function:
 Optimizer:
 (Adam)
 
-📝 Dataset
+## 📝 Dataset
 Flickr8K dataset with corresponding captions.
 
 Image features are pre-extracted and loaded during training.
 
-⚙️ Requirements
+## ⚙️ Requirements
 Python 3.x
 TensorFlow / Keras
 NumPy
@@ -44,14 +44,14 @@ scikit-learn (optional, for preprocessing)
 Jupyter Notebook
 
 
-🏷️ Key Features
+## 🏷️ Key Features
 Image-Text fusion with Encoder-Decoder LSTM.
 
 Batch-wise data generator for memory efficiency.
 
 Supports training with custom datasets.
 
-📈 Example Output
+## 📈 Example Output
 Input Image	Generated Caption
 "A man riding a horse on a beach."
 
