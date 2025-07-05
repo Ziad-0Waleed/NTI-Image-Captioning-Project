@@ -38,15 +38,6 @@ Flickr8K dataset with corresponding captions.
 
 Image features are pre-extracted and loaded during training.
 
-## ⚙️ Requirements
-Python 3.x
-TensorFlow / Keras
-NumPy
-Matplotlib
-scikit-learn (optional, for preprocessing)
-Jupyter Notebook
-
-
 ## 🏷️ Key Features
 Image-Text fusion with Encoder-Decoder LSTM.
 
