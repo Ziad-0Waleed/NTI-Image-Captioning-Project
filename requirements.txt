@@ -1,0 +1,6 @@
+Python 3.x
+TensorFlow / Keras
+NumPy
+Matplotlib
+scikit-learn (optional, for preprocessing)
+Jupyter Notebook
