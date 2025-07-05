@@ -3,6 +3,9 @@ A model for generating textual description/ Speech of a given image based on the
 
 This project implements an Image Captioning system using deep learning techniques. The model generates descriptive captions for images by combining image features and text sequences.
 
+This project uses the [Flickr8k dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+
+Due to size constraints, the dataset is **not included** in this repository
 
 Aproached Techniques:
 Pre-extracted image features from a CNN (VGG16).
