@@ -46,8 +46,11 @@ Batch-wise data generator for memory efficiency.
 Supports training with custom datasets.
 
 ## 📈 Example Output
+![image](https://github.com/user-attachments/assets/4af38267-7db8-48a2-befd-af82a1db85d5)
+
+
 Input Image	Generated Caption
-"A man riding a horse on a beach."
+"little girl pigtails fingerpaints"
 
 License
 This project is open-source and available under the MIT License.
