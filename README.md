@@ -55,5 +55,5 @@ Supports training with custom datasets.
 Input Image	Generated Caption
 "A man riding a horse on a beach."
 
-📜 License
+License
 This project is open-source and available under the MIT License.
